@@ -1,0 +1,6 @@
+{
+  "name": "For Gublu Baccha",
+  "description": "A cinematic interactive romantic experience created for Gublu Baccha.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
